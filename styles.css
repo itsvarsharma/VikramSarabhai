@@ -1,0 +1,28 @@
+
+section{
+    font-family: sans-serif;
+    text-align: justify;
+    color: rgb(62, 62, 62);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+  img{
+    margin: 20px;
+    border-radius: 20px;
+  }
+.intro_pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    font-size: 20px;
+}
+footer{
+    margin-left: none;
+    margin-right: none;
+    width: 100%;
+    height: 100px;
+    margin-top: 100px;
+    background-color: azure;
+  }
